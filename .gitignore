@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+.next/
+.cache/
+dist/
+coverage/
+tsconfig.tsbuildinfo
+
+.DS_Store
+._*
+**/._*
